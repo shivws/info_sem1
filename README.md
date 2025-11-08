@@ -20,4 +20,7 @@
 - ведение истории изменений критичных данных.
 
 ### Use-case схема
-![use-case схема](https://github.com/shivws/laba3/blob/main/docs/diagrams/images/usecase.png)
+![use-case схема](https://github.com/shivws/laba3/blob/main/docs/uml/diagrams/images/usecase.png)
+
+### UR-схема базы данных
+![ur-схема](https://github.com/shivws/laba3/blob/main/docs/ur.png)
