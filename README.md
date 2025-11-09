@@ -20,4 +20,4 @@
 - ведение истории изменений данных
 
 ### UR-схема базы данных
-![ur-схема](https://github.com/shivws/info_sem1/blob/main/docs/diagrams/ur.png)
+![ur-схема](https://github.com/shivws/info_sem1/blob/main/docs/diagrams/UR.png)
