@@ -1,6 +1,3 @@
-import sqlite3
-
-
 class Right:
     uuid: int
     name: str

@@ -12,7 +12,7 @@ def main(): # учет сотрудников и должностей
     workers:Workers = data[0]
     positions:Positions = data[1]
     rights:Rights = data[2]
-    print('Work with database...\n')
+    print('Working with database...\n')
     while True:
         iterat(workers, positions, rights)
         sleep(1)

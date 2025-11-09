@@ -1,6 +1,5 @@
-import importlib
 import sqlite3
-from entities.workers import Worker, Workers
+from entities.workers import Workers
 from entities.rights import Right, Rights
 
 
