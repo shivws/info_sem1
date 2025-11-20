@@ -15,11 +15,6 @@
                 <description>Просмотреть свои данные</description>
             </right>
             <right>
-                <uuid>3</uuid>
-                <name>view_every</name>
-                <description>Просмотреть все данные</description>
-            </right>
-            <right>
                 <uuid>2</uuid>
                 <name>edit_workers_pos</name>
                 <description>Изменение должности сотрудника</description>
@@ -28,6 +23,11 @@
                 <uuid>1</uuid>
                 <name>kick_join</name>
                 <description>Увольнение и найм сотрудника</description>
+            </right>
+            <right>
+                <uuid>3</uuid>
+                <name>view_every</name>
+                <description>Просмотреть все данные</description>
             </right>
         </rights>
     </position>
@@ -46,11 +46,6 @@
                 <description>Просмотреть свои данные</description>
             </right>
             <right>
-                <uuid>3</uuid>
-                <name>view_every</name>
-                <description>Просмотреть все данные</description>
-            </right>
-            <right>
                 <uuid>2</uuid>
                 <name>edit_workers_pos</name>
                 <description>Изменение должности сотрудника</description>
@@ -59,6 +54,11 @@
                 <uuid>1</uuid>
                 <name>kick_join</name>
                 <description>Увольнение и найм сотрудника</description>
+            </right>
+            <right>
+                <uuid>3</uuid>
+                <name>view_every</name>
+                <description>Просмотреть все данные</description>
             </right>
         </rights>
     </position>

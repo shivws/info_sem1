@@ -10,10 +10,6 @@ position: !!python/object:entities.positions.Position
         name: view_own
         uuid: 4
     - !!python/object:entities.rights.Right
-        description: Просмотреть все данные
-        name: view_every
-        uuid: 3
-    - !!python/object:entities.rights.Right
         description: Изменение должности сотрудника
         name: edit_workers_pos
         uuid: 2
@@ -21,6 +17,10 @@ position: !!python/object:entities.positions.Position
         description: Увольнение и найм сотрудника
         name: kick_join
         uuid: 1
+    - !!python/object:entities.rights.Right
+        description: Просмотреть все данные
+        name: view_every
+        uuid: 3
     uuid: 1
 sex: 0
 uuid: 1
@@ -36,10 +36,6 @@ position: !!python/object:entities.positions.Position
         name: view_own
         uuid: 4
     - !!python/object:entities.rights.Right
-        description: Просмотреть все данные
-        name: view_every
-        uuid: 3
-    - !!python/object:entities.rights.Right
         description: Изменение должности сотрудника
         name: edit_workers_pos
         uuid: 2
@@ -47,6 +43,10 @@ position: !!python/object:entities.positions.Position
         description: Увольнение и найм сотрудника
         name: kick_join
         uuid: 1
+    - !!python/object:entities.rights.Right
+        description: Просмотреть все данные
+        name: view_every
+        uuid: 3
     uuid: 2
 sex: 0
 uuid: 2

@@ -15,11 +15,6 @@
                     "description": "Просмотреть свои данные"
                 },
                 {
-                    "uuid": 3,
-                    "name": "view_every",
-                    "description": "Просмотреть все данные"
-                },
-                {
                     "uuid": 2,
                     "name": "edit_workers_pos",
                     "description": "Изменение должности сотрудника"
@@ -28,6 +23,11 @@
                     "uuid": 1,
                     "name": "kick_join",
                     "description": "Увольнение и найм сотрудника"
+                },
+                {
+                    "uuid": 3,
+                    "name": "view_every",
+                    "description": "Просмотреть все данные"
                 }
             ]
         }
@@ -48,11 +48,6 @@
                     "description": "Просмотреть свои данные"
                 },
                 {
-                    "uuid": 3,
-                    "name": "view_every",
-                    "description": "Просмотреть все данные"
-                },
-                {
                     "uuid": 2,
                     "name": "edit_workers_pos",
                     "description": "Изменение должности сотрудника"
@@ -61,6 +56,11 @@
                     "uuid": 1,
                     "name": "kick_join",
                     "description": "Увольнение и найм сотрудника"
+                },
+                {
+                    "uuid": 3,
+                    "name": "view_every",
+                    "description": "Просмотреть все данные"
                 }
             ]
         }
